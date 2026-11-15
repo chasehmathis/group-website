@@ -1,6 +1,18 @@
-last_updated: November 01, 2026
+last_updated: November 15, 2026
 window_days: 365
 papers:
+- title: 'From More to Better: Causal Inference and Digital Experimentation in the
+    Age of AI'
+  arxiv_id: '2611.16335'
+  url: https://arxiv.org/abs/2611.16335
+  pdf_url: https://arxiv.org/pdf/2611.16335
+  authors: Winston Chou, Mårten Schultzberg, Lo-Hua Yuan, Wenjing Zheng, Avi Feller,
+    David Holtz, Widad Machmouchi, Sven Schmit, et al.
+  date: '2026-11-12'
+  date_display: Nov 12, 2026
+  categories:
+  - cs.AI
+  - stat.AP
 - title: 'Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision
     Importances'
   arxiv_id: '2610.38797'
@@ -417,13 +429,3 @@ papers:
   categories:
   - stat.ME
   - stat.AP
-- title: 'Principled analysis of crossover designs: causal effects, efficient estimation,
-    and robust inference'
-  arxiv_id: '2511.09215'
-  url: https://arxiv.org/abs/2511.09215
-  pdf_url: https://arxiv.org/pdf/2511.09215
-  authors: Zhichao Jiang, Peng Ding
-  date: '2025-11-12'
-  date_display: Nov 12, 2025
-  categories:
-  - stat.ME
